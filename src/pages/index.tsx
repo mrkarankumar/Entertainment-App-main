@@ -58,7 +58,7 @@ const Home: NextPage = () => {
             href="https://github.com/mrkarankumar"
             className="font-medium transition-all hover:text-primary"
           >
-            karan kumar chaudhary
+            karan chaudhary
           </a>
         </p>
         <br />
